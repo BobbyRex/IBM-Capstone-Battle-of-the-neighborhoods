@@ -1,2 +1,2 @@
-# courses
-Course-related material
+# Capstone project for the IBM Data Science Professional Certificate
+In this project, data on Toronto demographics, crime statistics and restaurant frequencies are merged in order to score and cluster neighborhoods based on their suitability for setting up a French restaurant. Interestingly, out of three genereated clusters, the top two scoring where overall very different. One contained centrally located neighborhoods with many restaurants but also above average crime rate. The second cluster stood out with above average income and low crime rate but where also relatively sparsely populated. Overall, neighborhoods belonging to the second cluster seem like a good starting point for further exploration for those who aim for lower competition, wealthy neighbors and low risk for criminal activity.
